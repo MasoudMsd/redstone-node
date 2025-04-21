@@ -1,6 +1,4 @@
-# How to add a new source
 
-We will use words `source` and `fetcher`. Сonsider them to be synonymous.
 
 ## Select a name for the new source
 
